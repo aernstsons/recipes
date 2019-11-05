@@ -4,5 +4,9 @@ Pizza dough
 pizza sauce
 meatballs
 brocccoli
-anchovies
 pineapples
+Tuna
+Instructions:
+
+1. Buy pizza
+2. Cook
